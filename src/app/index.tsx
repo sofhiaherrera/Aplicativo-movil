@@ -1,3 +1,4 @@
+// Pantalla principal - Datos personales y enlaces de contacto de Laura Sofhia
 import * as Device from 'expo-device';
 import { Platform, StyleSheet } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
